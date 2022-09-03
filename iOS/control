@@ -1,10 +1,11 @@
 Package: emt.paisseon.ulysses
 Name: Ulysses Crack
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Unlimited subscription for the Ulysses writing app
+Description: Ulysses subscription for free
 Maintainer: Paisseon
 Author: Paisseon
-Section: Tweaks
-Depends: ${ORION}, firmware (>= 12.2)
-Conflicts: moe.emilia.ulysses
+Section: Cracks
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://paisseon.github.io/depictions/ulysses-crack.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ulysses-crack.json&name=Ulysses-Crack&dev=Paisseon
